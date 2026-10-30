@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+health_*.json
+netcheck_*.json
+.DS_Store
